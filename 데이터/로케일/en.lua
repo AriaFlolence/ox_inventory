@@ -12,7 +12,7 @@ return {
 	['ui_serial'] = "Serial number",
 	['ui_components'] = "Components",
 	['ui_tint'] = "Tint",
-	-- Useful controls
+	-Uefulcontrols
 	['ui_usefulcontrols'] = "Useful Controls",
 	['ui_rmb'] = "Open item context menu",
 	['ui_ctrl_lmb'] = "Fast move a stack of items into another inventory",
